@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="main_activity_name">All Tasks</string>
+    <string name="add_task_activity_name">Add a New Task</string>
+
+    <!-- Strings for MainActivity -->
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+    <!-- Strings for AddTaskActivity -->
+    <!-- This etaskEntrytask has a unicode character for "..." = "&#8230;" -->
+    <string name="edit_task_description">Name&#8230;</string>
+    <string name="priority_string">Relationship</string>
+
+    <string name="high_priority">Family</string>
+    <string name="med_priority">Friends</string>
+    <string name="low_priority">Acqua</string>
+
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+    <string name="phone_number">Phone number</string>
+
+</resources>
